@@ -1,0 +1,17 @@
+body {
+    background-color: antiquewhite;
+}
+.container {
+  height: 700px;
+  background: linear-gradient(to bottom, #d32f2f 50%, #424242 50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+}
